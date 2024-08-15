@@ -1,31 +1,31 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="5Yv_yx944lXI4YtrbJxH">
-    <mxGraphModel dx="882" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="110" width="760" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="130" width="220" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-3" value="Request and approve a MPS permit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-3" value="Response of the completed status of the MPS permit application" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="270" width="160" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-4" value="Medical Practitioner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-4" value="Resident" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="247.5" width="90" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-5" value="Resident" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-5" value="MPS Staff Member" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="247.5" width="90" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.136;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.136;entryY=0.526;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="324.4423209521855" as="sourcePoint" />
             <mxPoint x="329.9200000000001" y="324.5499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBc3xNF14niNfdg0CJ2j-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OBc3xNF14niNfdg0CJ2j-3">
+        <mxCell id="OBc3xNF14niNfdg0CJ2j-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OBc3xNF14niNfdg0CJ2j-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="324.44" as="sourcePoint" />
             <mxPoint x="675" y="324.44" as="targetPoint" />
